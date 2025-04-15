@@ -1,4 +1,4 @@
-# Python_Project_1_Magic_8_Ball
+# Python_Project_1_Magic_8_Ball_from_Codecademy
 
 ## Python tiny project 
 
